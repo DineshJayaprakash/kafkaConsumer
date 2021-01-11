@@ -1,0 +1,10 @@
+server:
+    port: 9192
+
+kafka:
+   topic1: EmpDetails1
+   topic2: UserDetails1
+   groupid:
+        groupId1: MessageGroup
+        groupId2: UserGroup
+
